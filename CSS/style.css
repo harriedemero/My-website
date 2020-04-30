@@ -1,0 +1,284 @@
+main{
+  padding: 0;
+}
+.header-div{
+  position: relative;
+  height: 110px;
+  width: auto;
+}
+header{
+  position: sticky;
+  top:0;
+  padding:40px;
+  background: #e0ebe8;
+  text-align: center;
+}
+.head-icon{
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 180px;
+  top: 0;
+}
+.top-panelone{
+  position: absolute;
+  right:350px;
+  top: 12px;
+  font-size: 22px;
+  font-family: Sacramento;
+  color: #4ab19a;
+  text-decoration: none;
+}
+.top-paneltwo{
+  position: absolute;
+  right:250px;
+  top: 12px;
+  font-size: 22px;
+  font-family: Sacramento;
+  color: #4ab19a;
+  text-decoration: none;
+}
+.top-panelthree{
+  position: absolute;
+  right:150px;
+  top: 12px;
+  font-size: 22px;
+  font-family: Sacramento;
+  color: #4ab19a;
+  text-decoration: none;
+}
+.top-container{
+  margin-bottom: 0;
+  padding-bottom: 0;
+  height: 540px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #e0ebe8;
+}
+h1{
+  margin-top: 40px;
+  font-family: 'Tangerine', cursive;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  font-size: 120px;
+  color: #4ab19a;
+}
+.paragraph-title{
+  font-family: Sacramento;
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 20px;
+  color: #4ab19a;
+}
+.left-cloud{
+  position: absolute;
+  height: 60px;
+  width: 180px;
+  margin: 0;
+  padding: 0;
+  right: 200px;
+  top: 210px;
+}
+.right-cloud{
+  position: absolute;
+  height: 60px;
+  width: 180px;
+  margin: 0;
+  padding: 0;
+  left:220px;
+  top: 320px;
+}
+.mountain{
+  position:relative;
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.middle-container{
+  position: relative;
+  text-align: center;
+  margin-top: 0px;
+  background-color: #f1f9f9;
+}
+.middle-paintbox{
+  height: 180px;
+  width: 180px;
+}
+.heading-middle{
+  font-family: Sacramento;
+  color: #348e7a;
+  font-size: 25px;
+}
+.paragraph-middle{
+  font-family: Sacramento;
+  font-size: 20px;
+  color: #333333;
+}
+.dottedline{
+  border: none;
+  border-top: 6px dotted #679b9b;
+  height: 20px;
+  width: 3%;
+  opacity: 30%;
+}
+h2{
+  font-family: Sacramento;
+  color: #135446;
+  font-size: 55px;
+  font-weight: lighter;
+}
+.internal-middle-icon{
+  position:relative;
+  height: 200px;
+  width: 200px;
+  background-color: #f1f9f9;
+  right: 250px;
+  }
+  .icon-psd{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 540px;
+    top: 760px;
+    opacity: 40%;
+  }
+  .Designwhatyouwant{
+    position: absolute;
+    top: 710px;
+    left: 650px;
+    font-family: Sacramento;
+    color: #348e7a;
+    font-size: 30px;
+  }
+.paragraph-middle-two{
+  font-family: Sacramento;
+  font-size: 20px;
+  color: #333333;
+  position: absolute;
+  top: 780px;
+  left: 650px;
+}
+.developwhatyouneed{
+  position: relative;
+  font-family: Sacramento;
+  color: #348e7a;
+  font-size: 30px;
+  right: 190px;
+  top: 20px;
+}
+.paragraph-middle-three{
+  position: relative;
+  font-family: Sacramento;
+  font-size: 20px;
+  color: #333333;
+  right: 160px;
+  top: 20px;
+}
+.paintboxcomputer{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  top: 950px;
+  left: 860px;
+  background-color: #f1f9f9;
+}
+.icon-develop{
+  position: absolute;
+  height: 70px;
+  width: 100px;
+  left: 740px;
+  top: 1000px;
+  opacity: 40%;
+}
+.lastheading{
+  position: relative;
+  font-family: Sacramento;
+  color: #348e7a;
+  font-size: 25px;
+  text-align: center;
+}
+.lastparagraph{
+  position: relative;
+  font-family: Sacramento;
+  font-size: 20px;
+  color: #333333;
+  background-color: #f1f9f9;
+}
+.messageme{
+  position: relative;
+  background-color: #f1f9f9;
+}
+.bottom-container{
+  background-color: #c5ded7;
+  padding: 60px 0 40px;
+
+}
+.footer-link{
+  position: relative;
+  font-size: 22px;
+  font-family: Sacramento;
+  color: #4ab19a;
+  margin: 40px 40px;
+  text-decoration: none;
+}
+.copyright{
+  font-size: 12px;
+  font-family: Sacramento;
+  color: #4ab19a;
+}
+.btn {
+  font-family: Sacramento;
+  color: #4ab19a;
+  font-size: 24px;
+  text-decoration: none;
+  margin-left: 40px;
+}
+.btn:hover {
+  color: #ffff;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #ffff;
+  text-decoration: none;
+}
+.top-panelone:hover {
+  color: #ffff;
+  text-decoration: none;
+}
+.top-paneltwo:hover {
+  color: #ffff;
+  text-decoration: none;
+}.top-panelthree:hover {
+  color: #ffff;
+  text-decoration: none;
+}
+.button-message-me{
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #4ab19a, #11999e);
+  background-image: -moz-linear-gradient(top, #4ab19a, #11999e);
+  background-image: -ms-linear-gradient(top, #4ab19a, #11999e);
+  background-image: -o-linear-gradient(top, #4ab19a, #11999e);
+  background-image: linear-gradient(to bottom, #4ab19a, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Sacramento;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button-message-me:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
